@@ -9,6 +9,9 @@ This is a web based application developed for Massages that include various styl
 
 **Demo video Link** - https://www.youtube.com/watch?v=GLidpP1bswI
 
+//Azure Technologies used for Project
+- Health bot
+- Static web apps
 
 ## Features and Functionalities ##
 
