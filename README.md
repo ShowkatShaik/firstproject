@@ -7,7 +7,7 @@ This is a web based application developed for Massages that include various styl
 
 **Project Link** - https://happy-sky-022706a00.2.azurestaticapps.net
 
-**Demo video Link** - https://www.youtube.com/watch?v=GLidpP1bswI
+**Demo video Link** - https://youtu.be/fmutayDvc64
 
 //Azure Technologies used for Project
 - Health bot
