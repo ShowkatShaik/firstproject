@@ -5,7 +5,8 @@ This is a web based application developed for Massages that include various styl
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime,Github.
 
 
-**Project Link** - https://showkatshaik.github.io/firstproject/
+**Project Link** - https://happy-sky-022706a00.2.azurestaticapps.net
+
 **Demo video Link** - https://www.youtube.com/watch?v=GLidpP1bswI
 
 //Azure Technologies used for Project
