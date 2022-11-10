@@ -39,10 +39,10 @@ This is a web based application developed for Massages that include various styl
 
 ![screenshot_22-11-11_15](https://user-images.githubusercontent.com/111400941/201184567-c763c63a-ed64-4b8e-9560-03e6255ba659.jpeg)
 
-## Tech Stack 💻
+## Tech Stack ##
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
-- CSS
+- Hypertext Markup Language
 - Bootstrap
+- Cascading Style Sheets
 - JavaScript
