@@ -23,17 +23,24 @@ This is a web based application developed for Massages that include various styl
 - Included the feedback Survey form to increase the scope of improvement.
 
 ## Screenshots
+📸![Screenshot-2022-11-11_08 12 11](https://user-images.githubusercontent.com/111400941/201347414-e64327b8-11df-4a56-8639-e727ce0f7975.png)
 
-📸![screenshot_22-11-11_10](https://user-images.githubusercontent.com/111400941/201183429-bd555426-89cb-4047-9692-d5ea582314ee.jpeg)
+![Screenshot-2022-11-11_08 12 111](https://user-images.githubusercontent.com/111400941/201347510-150a2221-ea98-4347-a88c-1355e69fe2a1.png)
 
-![screenshot_22-11-11_11](https://user-images.githubusercontent.com/111400941/201183446-65f8c4ec-6686-4df8-a9e3-be2410b8a6a1.jpeg)
+## Our Ideology -
+![Screenshot-2022-11-11_08 12 113](https://user-images.githubusercontent.com/111400941/201347594-9b9a69fe-cf2b-46be-bd46-c95eb1d47e08.png)
 
-![screenshot_22-11-11_12](https://user-images.githubusercontent.com/111400941/201183463-53a80d83-2c33-4875-913c-e9e92a16f351.jpeg)
+## Our Service -
+![Screenshot-2022-11-11_08 12 114](https://user-images.githubusercontent.com/111400941/201347719-632bf739-ae9a-45d9-8daf-69fdb2bf0f96.png)
 
+## Gallery -
+![Screenshot-2022-11-11_08 12 115](https://user-images.githubusercontent.com/111400941/201347731-2cd29fe7-22f2-43c3-b9a6-202f4a98b933.png)
 
 ### About Us -
+![Screenshot-2022-11-11_08 12 17](https://user-images.githubusercontent.com/111400941/201348011-458678a5-ada8-4a0f-95dc-6cb18ce66457.png)
 
-![screenshot_22-11-11_14](https://user-images.githubusercontent.com/111400941/201184439-c765eb78-9e58-4633-9c88-97ae8b429d4f.jpeg)
+![Screenshot-2022-11-11_08 12 116](https://user-images.githubusercontent.com/111400941/201348031-5e62a78a-13fb-4557-8ffa-3dfe8914095a.png)
+
 
 ### Instagram -
 
