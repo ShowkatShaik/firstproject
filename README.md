@@ -34,7 +34,7 @@ This is a web based application developed for Massages that include various styl
 ![Screenshot-2022-11-11_08 12 114](https://user-images.githubusercontent.com/111400941/201347719-632bf739-ae9a-45d9-8daf-69fdb2bf0f96.png)
 
 ## Gallery -
-![Screenshot-2022-11-11_08 12 115](https://user-images.githubusercontent.com/111400941/201347731-2cd29fe7-22f2-43c3-b9a6-202f4a98b933.png)
+![Screenshot-2022-11-11_08 12 115](https://user-images.githubusercontent.com/111400941/201349951-73111329-a1bd-4dcd-afc4-9af879f2728c.png)
 
 ### About Us -
 ![Screenshot-2022-11-11_08 12 17](https://user-images.githubusercontent.com/111400941/201348011-458678a5-ada8-4a0f-95dc-6cb18ce66457.png)
