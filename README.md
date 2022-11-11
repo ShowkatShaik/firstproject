@@ -42,9 +42,6 @@ This is a web based application developed for Massages that include various styl
 ![Screenshot-2022-11-11_08 12 116](https://user-images.githubusercontent.com/111400941/201348031-5e62a78a-13fb-4557-8ffa-3dfe8914095a.png)
 
 
-### Instagram -
-
-![screenshot_22-11-11_15](https://user-images.githubusercontent.com/111400941/201184567-c763c63a-ed64-4b8e-9560-03e6255ba659.jpeg)
 
 ## Tech Stack ##
 
